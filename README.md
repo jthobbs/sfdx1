@@ -47,7 +47,11 @@ Open the scratch org.
 
     sfdx force:org:open --path one/one.app
 
-## Resources
+## NI Resources
+
+I will add some resources here for future reference
+
+## Salesforce Resources
 
 For details on using sfdx-simple, please review the [Salesforce DX Developer Guide](https://developer.salesforce.com/docs/atlas.en-us.sfdx_dev.meta/sfdx_dev).
 
@@ -58,7 +62,3 @@ For details on using sfdx-simple, please review the [Salesforce DX Developer Gui
 * **force-app**: Directory that contains the source for the sample Force.com app and tests.   
 * **.project**:  Required by the Eclipse IDE.  Describes the Eclipse project. 
 * **.gitignore**:  Optional Git file. Specifies intentionally untracked files that you want Git (or in this case GitHub) to ignore.
-
-## Issues
-
-Please log issues related to this repository [here](https://github.com/forcedotcom/sfdx-simple/issues).
