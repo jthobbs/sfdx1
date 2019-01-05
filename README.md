@@ -1,5 +1,7 @@
 # SFDX Simple App
 
+Adding something for feature 2
+
 The Salesforce Developer Experience (SFDX) starts with source code living in your version control system.
 
 ## Set Up the Salesforce DX Project
