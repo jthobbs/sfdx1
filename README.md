@@ -1,6 +1,6 @@
 # SFDX Simple App
 
-Adding something for feature 2
+Adding something for feature 2 -- actually, nevermind. Feature 4 will override this line!
 
 The Salesforce Developer Experience (SFDX) starts with source code living in your version control system.
 
