@@ -1,0 +1,13 @@
+{
+    "country": "US",
+    "edition": "Developer",
+    "orgPreferences": {
+      "enabled": [
+        "S1DesktopEnabled"
+      ],
+      "disabled": []
+    },
+    "orgName": "Hobbs Inc",
+    "adminEmail": "tyler.hobbs@icloud.com"
+  }
+  
