@@ -1,22 +1,20 @@
-# SFDX Simple App
+# SFDX Master
 
-Adding something for feature 2 -- actually, nevermind. Feature 4 will override this line!
-
-The Salesforce Developer Experience (SFDX) starts with source code living in your version control system.
+This is the master version of the SFDX source code
 
 ## Set Up the Salesforce DX Project
 
 Our first goal is to set up a developer project which we'll use to modify our application. It starts by cloning the repository. Use the command ...
 
-    git clone https://github.com/forcedotcom/sfdx-simple.git
+    git clone https://github.com/jthobbs/sfdx1.git
 
 … or ...
 
-    git clone git@github.com:forcedotcom/sfdx-simple.git
+    git clone git@github.com:jthobbs/sfdx1.git
 
 … to clone the repository. Then, open the directory.
 
-    cd sfdx-simple
+    cd sfdx1
     
 ## Steps
 
